@@ -1,4 +1,4 @@
-[{
+{
   "compileOnSave": false,
   "compilerOptions": {
     "baseUrl": "./",
@@ -26,4 +26,4 @@
     "strictInputAccessModifiers": true,
     "strictTemplates": true
   }
-}]
+}
